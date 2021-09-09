@@ -18,3 +18,22 @@ h1#principal {
 h2 {
     color: #5370a7;
 }
+
+.basico {
+    color: darkolivegreen;
+    font-weight: bold;
+}
+
+.intermediario {
+    color: darkgoldenrod;
+}
+
+.avançado {
+    color: darkred;
+}
+
+.destaque {
+    background-color: indigo;
+    color: white;
+    font-weight: bold;
+}
