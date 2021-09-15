@@ -20,6 +20,16 @@ footer {
     padding: 0px;
     margin: 0px;
 }
+section#video {
+    background-color: #1A5C38;
+}
+section#extra {
+    border-radius: 10px;
+}
+section#extra > h3 {
+    background-color: #66b188;
+}
 footer > p {
     margin: 0px;
+    text-align: center;
 }
