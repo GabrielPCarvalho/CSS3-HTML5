@@ -1,0 +1,25 @@
+@charset "UTF-8";
+* {
+    text-align: justify;
+}
+body {
+    background-color: #1A5C38;
+}
+header {
+    background-image: red
+}
+main {
+    background-color: white;
+    border-radius: 5px;
+    margin: auto;
+    padding: auto;
+}
+footer {
+    background-color: #1A5C38;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+footer > p {
+    margin: 0px;
+}
